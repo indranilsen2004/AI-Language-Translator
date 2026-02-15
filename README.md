@@ -109,7 +109,7 @@ Feel free to fork this repository and improve the project.
 
 OUTPUT :
 
-
+<img width="1919" height="1012" alt="Image" src="https://github.com/user-attachments/assets/0a6f4d38-5690-435f-b7b7-ccaf36fbc622" />
 
 👨‍💻 Author:
 
